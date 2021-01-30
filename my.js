@@ -13,9 +13,9 @@ const COLOR = {
     BACKGROUND: '#212529',
     OUTER: '#495057',
     INNER: '#15aabf',
-    BUMPER: '#e64980',
-    BUMPER_LIT: '#ffb8d1',
-    PADDLE: '#49e3e6',
+    BUMPER: '#FAB005',
+    BUMPER_LIT: '#fff3bf',
+    PADDLE: '#FAB005',
     PINBALL: '#dee2e6'
 };
 const GRAVITY = 0.75;
